@@ -2,15 +2,13 @@
 
 Notificaciones automatizadas de movimientos en cuentas de BBVA.
 
-Basado en el gist de [@DamianCatanzaro](https://twitter.com/DamianCatanzaro/status/1582422766971547649)
+Basado en el tweet de [@DamianCatanzaro](https://twitter.com/DamianCatanzaro/status/1582422766971547649)
 
-## Config
+## Configuración
 
 En un archivo `.env` configurar las siguientes variables de entorno necesarias para hacer requests al banco y al bot de telegram
 
-```txt
-// .env file
-
+```javascript
 //Para BBVA
 COOKIE=
 UID=
