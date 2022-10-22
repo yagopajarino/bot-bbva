@@ -19,7 +19,7 @@ const getMovements = async () => {
         cookie: process.env.COOKIE,
         origin: "https://online.bbva.com.ar",
         referer: "https://online.bbva.com.ar/fnetcore/",
-        uid: process.env.COOKIE,
+        uid: process.env.UID,
         "x-xsrf-token": process.env.XSRF_TOKEN,
       },
     }
