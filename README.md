@@ -29,7 +29,7 @@ Obtener el detalle de los últimos movimientos de la cuenta bancaria y para cada
 
 Para resolver el problema, la idea es dividirlo en dos partes. Obtener los datos de movimientos (uno) y enviar las notificaciones por Telegram (dos).
 
-### Desarrollo
+### Obtener movimientos
 
 Para obtener los movimientos, necesitamos realizar la misma consulta que hace el cliente del banco a la api. Para eso, podemos utilizar las devtools del navegador, en la pestaña red, que permite revisar las requests que hace la página web que visitamos y ubicar la request que hace el navegador a la api.
 
