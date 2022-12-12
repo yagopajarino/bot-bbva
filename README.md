@@ -1,5 +1,7 @@
 # bot-bbva
 
+https://user-images.githubusercontent.com/50267208/207090618-5fa2bac5-b62f-4a3c-84ad-cb3ca9aefab7.mp4
+
 Notificaciones automatizadas de movimientos en cuentas de BBVA.
 
 Basado en el tweet de [@DamianCatanzaro](https://twitter.com/DamianCatanzaro/status/1582422766971547649)
